@@ -6,7 +6,7 @@
 
 ## Live Deployment Link
 
-Deployment URL: To be added after deployment.
+Deployment URL: https://rithwik-lab-01.onrender.com/
 
 ## Objective
 
