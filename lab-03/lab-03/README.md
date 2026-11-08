@@ -140,9 +140,36 @@ the screenshots folder.
 
 https://github.com/rithwikrampuram7093-eng/RAMPURAM-RITHWIK/tree/main/lab-03
 
+
 ## Render Deployment
 
-To be added after successful deployment.
+Live Application:
+https://rithwik-lab-03.onrender.com
+
+Live Books API:
+https://rithwik-lab-03.onrender.com/books/
+
+Platform: Render
+Runtime: Node.js
+Database: SQLite
+Deployment Status: Live
+
+## Live API Testing
+
+The deployed Books REST API was tested using
+a browser and Postman.
+
+Tests include:
+- GET all books
+- Sorting by price
+- Pagination using limit
+- Filtering by price range
+- Invalid sorting parameter (400)
+- Nonexistent book ID (404)
+
+The API supports GET, POST, PUT and DELETE
+operations.
+
 
 ## Result
 
